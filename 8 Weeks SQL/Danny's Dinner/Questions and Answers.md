@@ -262,6 +262,7 @@ GROUP by customer_id
 
 
 guide:
+
 ![](src/Pasted%20image%2020230607224611.png)
 
 
